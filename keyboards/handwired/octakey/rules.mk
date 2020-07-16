@@ -54,5 +54,3 @@ HD44780_ENABLE = no         # Enable support for HD44780 based LCDs (+400)
 
 DEFAULT_FOLDER = handwired/octakey/one
 LAYOUTS = ortho_1x1
-
-OLED_DRIVER_ENABLE = yes
