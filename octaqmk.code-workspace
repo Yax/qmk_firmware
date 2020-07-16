@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"favorites.resources": [
+			"keyboards\\planck",
+			"keyboards\\handwired\\onekey",
+			"keyboards\\clueboard",
+			"keyboards\\handwired\\octakey"
+		],
+		"favorites.sortOrder": "MANUAL"
+	}
+}
