@@ -9,8 +9,13 @@
 			"keyboards\\planck",
 			"keyboards\\handwired\\onekey",
 			"keyboards\\clueboard",
-			"keyboards\\handwired\\octakey"
+			"keyboards\\handwired\\octakey",
+			"keyboards\\ergodox_ez",
+			"keyboards\\moonlander"
 		],
-		"favorites.sortOrder": "MANUAL"
+		"favorites.sortOrder": "MANUAL",
+		"files.associations": {
+			"i2c_master.h": "c"
+		}
 	}
 }
