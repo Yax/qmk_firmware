@@ -9,7 +9,11 @@
 			"keyboards\\planck",
 			"keyboards\\handwired\\onekey",
 			"keyboards\\clueboard",
-			"keyboards\\handwired\\octakey"
+			"keyboards\\handwired\\octakey",
+			"keyboards\\ergodox_ez",
+			"keyboards\\moonlander",
+			"keyboards/handwired/onekey",
+			"keyboards/handwired/octakey"
 		],
 		"favorites.sortOrder": "MANUAL"
 	}
