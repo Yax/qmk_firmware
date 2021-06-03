@@ -4,4 +4,4 @@
 
 One key test keyboard.
 
-HW: Blackpill STM32F411, SK6812, SSD1306
+HW: Blackpill STM32F411, SK6812, SSD1306, MCP23017
