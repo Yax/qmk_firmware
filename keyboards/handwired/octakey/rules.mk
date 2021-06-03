@@ -29,4 +29,4 @@ BLUETOOTH_ENABLE = no       # Enable Bluetooth with the Adafruit EZ-Key HID
 AUDIO_ENABLE = no           # Audio output on port C6
 
 DEFAULT_FOLDER = handwired/octakey/one
-LAYOUTS = ortho_1x1
+# LAYOUTS = octa_1x1

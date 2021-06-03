@@ -18,7 +18,7 @@
 
 #include "quantum.h"
 
-#define LAYOUT_ortho_1x1( \
+#define LAYOUT_octa_1x1( \
     k00 \
 ) { \
     { k00 } \
