@@ -18,8 +18,6 @@
 			"keyboards/moonlander"
 		],
 		"favorites.sortOrder": "MANUAL",
-		"files.associations": {
-			"i2c_master.h": "c"
-		}
+		"editor.tabSize": 2
 	}
 }

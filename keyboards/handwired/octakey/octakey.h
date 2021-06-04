@@ -18,8 +18,10 @@
 
 #include "quantum.h"
 
-#define LAYOUT_octa_1x1( \
-    k00 \
+#define LAYOUT_octa_2x2( \
+    k00, k01, \
+    k10, k11 \
 ) { \
-    { k00 } \
+    { k00, k01, }, \
+    { k10, k11 } \
 }

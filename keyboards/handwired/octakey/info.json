@@ -2,13 +2,27 @@
     "keyboard_name": "octakey one",
     "url": "",
     "maintainer": "Yax",
-    "width": 1,
-    "height": 1,
+    "width": 2,
+    "height": 2,
+    "diode_direction": "COL2ROW",
+    "matrix_pins": {
+        "cols": ["A4", "A3"],
+        "rows": ["A2", "A1"]
+    },
     "layouts": {
-        "LAYOUT_octa_1x1": {
+        "LAYOUT_octa_2x2": {
             "layout": [
-                {"x":0, "y":0}
+                {"x":0, "y":0},
+                {"x":0, "y":1},
+                {"x":1, "y":0},
+                {"x":1, "y":1}
             ]
         }
-    }
+    },
+    "usb": {
+        "vid": "0xB00B",
+        "pid": "0x6465",
+        "device_ver": "0x0001"
+
+      }
 }
