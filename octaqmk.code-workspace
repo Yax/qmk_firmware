@@ -13,7 +13,9 @@
 			"keyboards\\ergodox_ez",
 			"keyboards\\moonlander",
 			"keyboards/handwired/onekey",
-			"keyboards/handwired/octakey"
+			"keyboards/handwired/octakey",
+			"keyboards/ergodox_stm32",
+			"keyboards/moonlander"
 		],
 		"favorites.sortOrder": "MANUAL",
 		"files.associations": {
