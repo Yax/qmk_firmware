@@ -17,6 +17,7 @@
 			"keyboards/ergodox_stm32",
 			"keyboards/moonlander"
 		],
-		"favorites.sortOrder": "MANUAL"
+		"favorites.sortOrder": "MANUAL",
+		"editor.tabSize": 2
 	}
 }

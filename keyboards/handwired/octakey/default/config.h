@@ -18,5 +18,3 @@
 
 #include "config_common.h"
 
-#define MATRIX_COL_PINS { B1 }
-#define MATRIX_ROW_PINS { B0 }
