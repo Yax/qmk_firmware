@@ -54,5 +54,12 @@
             "url": "./data/schemas/keymap.jsonschema"
         }
     ],
-    "editor.tabSize": 2
+    "editor.tabSize": 2,
+    "makefile.buildLog": "/mnt/d/QMK/qmk_firmware/build.log",
+    "makefile.dryrunSwitches": [
+        "--always-make",
+        "--keep-going",
+        "--print-directory"
+    ],
+    "makefile.configureOnEdit": true
 }
