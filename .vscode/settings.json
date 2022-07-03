@@ -30,5 +30,9 @@
         "--keep-going",
         "--print-directory"
     ],
-    "makefile.configureOnEdit": true
+    "makefile.configureOnEdit": true,
+    "python.formatting.provider": "yapf",
+    "[json]": {
+	    "editor.formatOnSave": false
+    }
 }
