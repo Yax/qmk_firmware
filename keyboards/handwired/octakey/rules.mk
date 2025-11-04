@@ -4,6 +4,13 @@ MCU = STM32F411
 # Address of the bootloader in system memory
 STM32_BOOTLOADER_ADDRESS = 0x1FFF0000
 
+# Custom matrix using MCP23017 I/O expander
+CUSTOM_MATRIX = lite
+SRC += matrix.c
+
+# I2C driver required for MCP23017
+I2C_DRIVER_REQUIRED = yes
+
 # Build Options
 #   change yes to no to disable
 #

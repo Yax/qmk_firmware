@@ -42,6 +42,17 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define TAPPING_TERM 500
 
+/* I2C Configuration for MCP23017 */
+// STM32F411 I2C1 pins (Blackpill standard pins)
+#define I2C1_SCL_PIN B6
+#define I2C1_SDA_PIN B7
+#define I2C_DRIVER I2CD1
+#define I2C1_TIMINGR_PRESC 0U
+#define I2C1_TIMINGR_SCLDEL 7U
+#define I2C1_TIMINGR_SDADEL 0U
+#define I2C1_TIMINGR_SCLH 38U
+#define I2C1_TIMINGR_SCLL 129U
+
 /* Mechanical locking support. Use KC_LCAP, KC_LNUM or KC_LSCR instead in keymap */
 #define LOCKING_SUPPORT_ENABLE
 /* Locking resynchronize hack */

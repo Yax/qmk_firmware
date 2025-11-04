@@ -5,10 +5,6 @@
     "width": 2,
     "height": 2,
     "diode_direction": "COL2ROW",
-    "matrix_pins": {
-        "cols": ["A4", "A3"],
-        "rows": ["A2", "A1"]
-    },
     "layouts": {
         "LAYOUT_octa_2x2": {
             "layout": [
